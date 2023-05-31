@@ -31,3 +31,17 @@ footer{
 .portfolio-element {
     text-align: center;
 }
+button {
+    background-color:white;
+    color: black;
+}
+button:hover {
+    background-color:black;
+    color:white;
+    border: white solid 1px;
+}
+
+button a{
+    text-decoration: none;
+    color:inherit;
+}
